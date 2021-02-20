@@ -1,0 +1,1 @@
+﻿public enum ProblemType { FibyByFive = 5, SevenBySeven = 7, TenByTen = 10, FifteenByFifteen = 15, TwentyByTwenty = 20, TwentyfiveByTwentyfive = 25 }
